@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roohan</h1>
 <h3 align="center">A Lazy Backend Developer :)</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=federicoalbanese&label=Profile%20views&color=0e75b6&style=flat" alt="federicoalbanese" /> </p>
-
-- 📫 How to reach me **alireza10871@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -67,8 +57,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoalbanese&show_icons=true&locale=en&layout=compact" alt="federicoalbanese" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federicoalbanese&show_icons=true&locale=en" alt="federicoalbanese" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicoalbanese&" alt="federicoalbanese" /></p>
-
