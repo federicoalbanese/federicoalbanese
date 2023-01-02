@@ -56,4 +56,4 @@
              height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoalbanese&show_icons=true&locale=en&layout=compact&theme=dark" alt="federicoalbanese" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoalbanese&show_icons=true&locale=en&layout=compact&theme=dark" alt="federicoalbanese" /></p>
