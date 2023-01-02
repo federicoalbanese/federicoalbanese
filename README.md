@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roohan</h1>
 <h3 align="center">A Lazy Backend Developer :)</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
              alt="php"
@@ -56,4 +56,4 @@
              height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoalbanese&show_icons=true&locale=en&layout=compact&theme=dark" alt="federicoalbanese" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=federicoalbanese&show_icons=true&locale=en&layout=compact&theme=dark" alt="federicoalbanese" /></p>
